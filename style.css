@@ -1,0 +1,22 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 99%;
+    background-color: blue;
+    margin: 2;
+    padding: 3px;
+    border-radius: 10px;
+    font-size: x-large
+}
+
+canvas {
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.btn{
+    border-radius:0px;
+    width:250px;
+    
+}
